@@ -1,0 +1,14 @@
+{
+  "name": "website-cloner-agent",
+  "version": "1.0.0",
+  "description": "CLI AI Agent to clone website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@openrouter/sdk": "^0.12.32",
+    "dotenv": "^16.0.0"
+  }
+}
